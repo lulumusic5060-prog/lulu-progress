@@ -1,0 +1,26 @@
+{
+  "name": "lulu-progress",
+  "version": "0.2.0",
+  "private": true,
+  "scripts": {
+    "preview": "remotion studio src/index.tsx",
+    "still": "remotion still src/index.tsx",
+    "render": "remotion render src/index.tsx",
+    "editor": "node scripts/editor.mjs",
+    "check": "tsc --noEmit",
+    "test": "node scripts/test-model.mjs"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.486",
+    "@remotion/player": "4.0.486",
+    "esbuild": "0.28.1",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.486"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "@types/react-dom": "19.2.3",
+    "typescript": "5.9.3"
+  }
+}
