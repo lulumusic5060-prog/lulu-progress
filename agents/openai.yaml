@@ -1,0 +1,4 @@
+interface:
+  display_name: "LuLu Progress"
+  short_description: "三款头像主题、可视化预览和轻量透明视频导出"
+  default_prompt: "Use $lulu-progress to make a transparent chapter progress overlay from my subtitles."

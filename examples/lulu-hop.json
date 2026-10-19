@@ -1,0 +1,34 @@
+{
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "duration": 20,
+  "position": "top",
+  "style": "lulu-hop",
+  "mascot": "croissant",
+  "labels": true,
+  "chapters": [
+    {
+      "label": "认识LuLu",
+      "start": 0
+    },
+    {
+      "label": "选个风格",
+      "start": 4
+    },
+    {
+      "label": "跟着进度走",
+      "start": 9
+    },
+    {
+      "label": "完成啦",
+      "start": 15
+    }
+  ],
+  "accent": "#e52a85",
+  "track": "#f9d9e8",
+  "ink": "#79204b",
+  "avatarSize": 84,
+  "barHeight": 24,
+  "labelMode": "auto"
+}

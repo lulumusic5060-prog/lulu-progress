@@ -1,0 +1,30 @@
+{
+  "width": 720,
+  "height": 1280,
+  "fps": 30,
+  "duration": 2,
+  "position": "top",
+  "style": "lulu",
+  "mascot": "croissant",
+  "labels": true,
+  "chapters": [
+    {
+      "label": "开场",
+      "start": 0
+    },
+    {
+      "label": "第二章",
+      "start": 0.7
+    },
+    {
+      "label": "完成",
+      "start": 1.5
+    }
+  ],
+  "accent": "#e52a85",
+  "track": "#f9d9e8",
+  "ink": "#79204b",
+  "avatarSize": 84,
+  "barHeight": 24,
+  "labelMode": "auto"
+}
